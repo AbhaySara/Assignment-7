@@ -1,0 +1,19 @@
+{
+  "name": "assignment-7",
+  "version": "1.0.0",
+  "description": "Movie Cruiser Assignment",
+  "main": "index.js",
+  "scripts": {
+    "start": "json-server db.json -s ./public",
+    "test": "echo \"No tests configured\"",
+    "eslint": "eslint ."
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.17.4"
+  },
+  "devDependencies": {
+    "eslint": "^8.57.0"
+  }
+}

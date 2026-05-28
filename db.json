@@ -1,0 +1,42 @@
+{
+  "movies": [
+    {
+      "id": 1,
+      "title": "Avengers Endgame",
+      "posterPath": "https://m.media-amazon.com/images/I/81ExhpBEbHL.jpg",
+      "trailer": "https://www.youtube.com/watch?v=TcMBFSGVi1c"
+    },
+    {
+      "id": 2,
+      "title": "Batman",
+      "posterPath": "https://www.shutterstock.com/image-photo/artsy-intepretive-movie-poster-batman-260nw-2748672305.jpg",
+      "trailer": "https://www.youtube.com/watch?v=mqqft2x_Aa4"
+    },
+    {
+      "id": 3,
+      "title": "Interstellar",
+      "posterPath": "https://m.media-amazon.com/images/I/91kFYg4fX3L.jpg",
+      "trailer": "https://www.youtube.com/watch?v=zSWdZVtXT7E"
+    },
+    {
+      "id": 4,
+      "title": "Joker",
+      "posterPath": "https://media.themoviedb.org/t/p/w440_and_h660_face/27aHhktE2VBoAUcSmeeMVbaK66x.jpg",
+      "trailer": "https://www.youtube.com/watch?v=zAGVQLHvwOY"
+    },
+    {
+      "id": 5,
+      "title": "Spider Man No Way Home",
+      "posterPath": "https://upload.wikimedia.org/wikipedia/en/0/00/Spider-Man_No_Way_Home_poster.jpg?_=20240715000312",
+      "trailer": "https://www.youtube.com/watch?v=JfVOs4VSpmA"
+    }
+  ],
+  "favourites": [
+    {
+      "id": 2,
+      "title": "Batman",
+      "posterPath": "https://www.shutterstock.com/image-photo/artsy-intepretive-movie-poster-batman-260nw-2748672305.jpg",
+      "trailer": "https://www.youtube.com/watch?v=mqqft2x_Aa4"
+    }
+  ]
+}
